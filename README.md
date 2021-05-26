@@ -1,3 +1,2 @@
-Nimit Bakrania - Websit
 
-Where an copy of my personal website is stored
+🏗️ A first iteration of a website used as my initial personal website
